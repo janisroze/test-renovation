@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "lodash": "^4.17.16",
+    "express": "^4.16.1",
+    "lodash": "^4.17.15",
     "renovate": "^36.27.1"
   }
 }
